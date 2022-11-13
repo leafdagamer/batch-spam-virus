@@ -1,3 +1,4 @@
+:spam
 @echo off
 cls
 start appwiz.cpl
@@ -11,4 +12,4 @@ start https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uac
 start cmd /C start explorer %cd%
 start iexpress
 start write
-spam.bat
+goto spam
